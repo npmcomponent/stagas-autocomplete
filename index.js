@@ -11,7 +11,7 @@
  * Module dependencies.
  */
 
-var Dropdown = require('dropdown')
+var Dropdown = require('stagas-dropdown')
 
 /**
  * Exports.

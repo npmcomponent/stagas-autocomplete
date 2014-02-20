@@ -1,0 +1,14 @@
+{
+  "name": "stagas-autocomplete",
+  "description": "dropdown autocomplete for input elements",
+  "version": "0.0.1",
+  "keywords": [
+    "autocomplete",
+    "dropdown",
+    "ui"
+  ],
+  "dependencies": {
+    "stagas-dropdown": "git://github.com/npmcomponent/stagas-dropdown.git"
+  },
+  "license": "MIT"
+}
